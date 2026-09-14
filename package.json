@@ -1,5 +1,5 @@
 {
-  "name": "react-waypoint",
+  "name": "@rinminase/react-waypoint",
   "version": "10.3.0",
   "description": "A React component to execute a function whenever you scroll to an element.",
   "main": "cjs/index.js",
